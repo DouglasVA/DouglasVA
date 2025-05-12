@@ -1,7 +1,7 @@
 # 👨‍💻 **Bem-vindo ao meu GitHub!**
 
 ## Sobre mim
-Olá, eu sou **[DouglasVA](https://github.com/DouglasVA)**, um programador apaixonado por **Java** e **Tecnologia**. Estou sempre em busca de novos desafios e de aprimorar minhas habilidades em desenvolvimento de software.
+Olá, eu sou **[Douglas](https://github.com/DouglasVA)**, um programador apaixonado por **Java** e **Tecnologia**. Estou sempre em busca de novos desafios e de aprimorar minhas habilidades em desenvolvimento de software.
 
 ### 🔧 Ferramentas e Tecnologias
 
