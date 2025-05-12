@@ -25,7 +25,7 @@ Eu trabalho principalmente com:
 
 Aqui estão alguns dos meus repositórios favoritos no GitHub:
 
-- [**Java Projects**](https://github.com/DouglasVA/java-projects): Projetos desenvolvidos em Java para estudos e desafios.
+- [**Java Projects**](https://github.com/DouglasVA/course): Projetos desenvolvidos em Java para estudos e desafios.
 
 
 ## 📫 Como me encontrar?
