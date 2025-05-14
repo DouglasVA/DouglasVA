@@ -7,7 +7,10 @@ Olá, eu sou **[Douglas](https://github.com/DouglasVA)**, um programador apaixon
 
 Eu trabalho principalmente com:
 
-- **Linguagem**: 
+- **Linguagem**:
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVA&layout=compact&theme=dark)
+
   - Java ☕
 
 - **Frameworks**:
@@ -19,7 +22,17 @@ Eu trabalho principalmente com:
 
 ### 📊 Estatísticas do GitHub
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=DouglasVA&theme=darkhub&no-bg=true&no-frame=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasVA&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+![Snake animation](https://github.com/DouglasVA/DouglasVA/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DouglasVA&theme=react-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DouglasVA&theme=dark)
+
+
 
 ### 📈 Principais Repositórios
 
