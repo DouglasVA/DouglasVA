@@ -1,27 +1,27 @@
-# 👨‍💻 **Bem-vindo ao meu GitHub!**
+# **👨‍💻 Welcome to my GitHub!**
 
-## Sobre mim
-Olá, eu sou **[Douglas](https://github.com/DouglasVA)**, um programador apaixonado por **Java**, **Tecnologia** e **Cyber Security**. Estou sempre em busca de novos desafios e de aprimorar minhas habilidades em desenvolvimento de software.
+## About Me
+Hello, I'm **[Douglas](https://github.com/DouglasVA)**, a programmer passionate about **Java**, **Technology** and **Cyber Security**. I'm always looking for new challenges and ways to improve my software development skills.
 
-## 📫 Como me encontrar?
+## 📫 How to Reach Me?
 
-- E-mail: douglasvenancio2009@hotmail.com
+- Email: douglasvenancio2009@hotmail.com
 - LinkedIn: [Clique aqui](https://www.linkedin.com/in/douglas-venancio-61b40512a/)
 
-### 🔧 Ferramentas e Tecnologias
+### 🔧 Tools and Technologies
 
-Eu trabalho principalmente com:
+I mainly work with:
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVA&layout=compact&theme=dark)
 
 - **Frameworks**:
   - Spring Boot ⚡
 
-- **Ferramentas**:
+- **Tools**:
   - IntelliJ IDEA 💡
   - Git & GitHub 🖥️
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DouglasVA&theme=darkhub&no-bg=true&no-frame=true)
 
@@ -32,9 +32,9 @@ Eu trabalho principalmente com:
 
 
 
-### 📈 Principais Repositórios
+### 📈 Featured Repositories
 
-Aqui estão alguns dos meus repositórios favoritos no GitHub:
+Here are some of my favorite repositories on GitHub:
 
 - [**Java Projects**](https://github.com/DouglasVA/course): Projetos desenvolvidos em Java para estudos e desafios.
 
@@ -42,11 +42,11 @@ Aqui estão alguns dos meus repositórios favoritos no GitHub:
 
 ### ⚡ **Quote**:
 
-> "A programação não é só um trabalho, é uma forma de arte." - **DouglasVA**
+> "Programming is not just a job, it’s an art form." - **DouglasVA**
 
 ---
 
-Se você tiver alguma dúvida ou sugestão, fique à vontade para me chamar nos links acima ou abrir um _issue_ nos meus repositórios!
+If you have any questions or suggestions, feel free to reach out via the links above or open an issue on any of my repositories!
 
 ---
-**Fique à vontade para conferir meus projetos e contribuições no GitHub!** 🚀
+**Feel free to explore my projects and contributions here on GitHub!** 🚀
