@@ -23,14 +23,10 @@ I mainly work with:
 
 ### 📊 GitHub Stats
 
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DouglasVA&theme=darkhub&no-bg=true&no-frame=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasVA&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DouglasVA&theme=dark)
-
-
-
 
 ### 📈 Featured Repositories
 
