@@ -32,7 +32,7 @@ I mainly work with:
 
 Here are some of my favorite repositories on GitHub:
 
-- [**Java Projects**](https://github.com/DouglasVA/course): Projetos desenvolvidos em Java para estudos e desafios.
+- [**Java Projects**](https://github.com/DouglasVA?tab=repositories): Projetos desenvolvidos em Java para estudos e desafios.
 
 ---
 
