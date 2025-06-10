@@ -3,6 +3,10 @@
 ## About Me
 Hello, I'm **[Douglas](https://github.com/DouglasVA)**, a programmer passionate about **Java**, **Technology** and **Cyber Security**. I'm always looking for new challenges and ways to improve my software development skills.
 
+### 📈 Featured Repositories
+Here are some of my favorite repositories on GitHub:
+- [**Java Projects**](https://github.com/DouglasVA/ExerciciosJava) Projects developed in Java for studies and challenges.
+
 ## 📫 How to Reach Me?
 
 - Email: douglasvenancio2009@hotmail.com
@@ -27,12 +31,6 @@ I mainly work with:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=DouglasVA&theme=darkhub&no-bg=true&no-frame=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasVA&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
-### 📈 Featured Repositories
-
-Here are some of my favorite repositories on GitHub:
-
-- [**Java Projects**](https://github.com/DouglasVA?tab=repositories): Projetos desenvolvidos em Java para estudos e desafios.
 
 ---
 
